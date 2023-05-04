@@ -36,3 +36,16 @@ El código debe estar comentado, con nombre y apellido explicando y justificando
 MODULO 2
 
 En este apartado veremos que implementaciones podemos realizar a partir de lo enseñado en el modulo N° 2 de Henry. 
+
+ESTADISTICA Y PROBABILIDAD
+
+- Calcular PROMEDIO Y MEDIANA de la duración de peliculas y series agrupado por plataforma.
+- Calcular MODA del tipo de género y autor.
+- ¿Qué probabilidad hay de eliminar 4 peliculas o series al azar y que todas ellas pertenezcan a NETFLIX?
+- ¿Qué probabilidad hay de que al elegir 10 peliculas o series no se repita en ningún caso ningúno de los géneros?
+
+SQL
+
+-Deberás crear una conexión a base de datos para conectar lo realizado en el MODULO 1 y exportarlo a MySQL o Postgresql. AVANZADO: Crear un script que automatice la conexión, se genere un pool de conexiones junto con el cursor y una clase que contenga las consultas de CRUD. Luego generar la interfaz de input para la gestión de las consultas.
+
+-Realizada la creación de la base de datos debes verificar y realizar un EDA desde Workbench o similiar controlando nulos, duplicados, codificación, etc.
